@@ -31,7 +31,17 @@ Like how the spoken language & dialects change from country to country likewise,
 ## 🛠️ Tech Stack
 - Flutter 3.32.4
 - Dart 
-- Material Design 
+- Material Design
 
+## System requirments
+- Operating System: Windows, macOS, or Linux
+- RAM: Minimum 4 GB (8 GB recommended)
+- Disk Space: At least 2 GB for Flutter SDK and dependencies
+
+## Software Requirments
+- Flutter SDK: v3.32.4
+- Dart SDK: (comes with Flutter)
+- Android Studio or Visual Studio Code with Flutter & Dart plugins
+- Android/iOS Emulator or physical device for testing
 
 
