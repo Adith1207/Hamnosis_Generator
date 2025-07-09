@@ -1,4 +1,4 @@
-# HamNoSys Generator — Flutter App
+# HamNoSys Generator — Mobile App
 
 ## 🖐️ About
 HamNoSys Generator is a Flutter-based mobile application designed to generate **HamNoSys (Hamburg Notation System)** symbols for sign languages. It provides an intuitive UI to let users construct and visualize HamNoSys sequences step-by-step, making it a valuable tool for sign language linguists, learners, and developers.
