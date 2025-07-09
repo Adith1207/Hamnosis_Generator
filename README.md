@@ -20,11 +20,5 @@ HamNoSys Generator is a Flutter-based mobile application designed to generate **
 - Dart 
 - Material Design 
 
-📱 How to Run
-------------
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hamnosys-generator-flutter.git
-   cd hamnosys-generator-flutter
-2. 
+
 
